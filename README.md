@@ -1,4 +1,4 @@
-# Naanmudhalvan-CSE--3rd Year---2022-26
+# Naanmudhalvan---3rd Year CSE---2022-26
 
 Team Name: Sharks Team
 
